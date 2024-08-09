@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+pygame
+PyAudio
+xmltodict
+upnpclient
+
