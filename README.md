@@ -1,5 +1,5 @@
 # WiiM-spectrum
-Intergrating Realtime_PyAudio_FFT project with WiiM streamer.
+Integrating Realtime_PyAudio_FFT project with WiiM streamer.
 https://github.com/aiXander/Realtime_PyAudio_FFT
 
 ![photo](https://raw.githubusercontent.com/retired-guy/WiiM-spectrum/main/IMG_2675.jpg)
